@@ -1,0 +1,14 @@
+"Games"
+{
+	"csgo"
+	{
+		"Offsets"
+		{
+			"ServerPlatform"
+			{
+				"windows"	"1"
+				"linux"		"2"
+			}
+		}
+	}
+}
